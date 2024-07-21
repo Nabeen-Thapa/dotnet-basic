@@ -1,0 +1,7 @@
+E:\5th semester\DotNet techonlogy\programs\Nabin_lab2\Nabin_lab2\bin\Debug\Nabin_lab2.exe.config
+E:\5th semester\DotNet techonlogy\programs\Nabin_lab2\Nabin_lab2\bin\Debug\Nabin_lab2.exe
+E:\5th semester\DotNet techonlogy\programs\Nabin_lab2\Nabin_lab2\bin\Debug\Nabin_lab2.pdb
+E:\5th semester\DotNet techonlogy\programs\Nabin_lab2\Nabin_lab2\obj\Debug\Nabin_lab2.csproj.AssemblyReference.cache
+E:\5th semester\DotNet techonlogy\programs\Nabin_lab2\Nabin_lab2\obj\Debug\Nabin_lab2.csproj.CoreCompileInputs.cache
+E:\5th semester\DotNet techonlogy\programs\Nabin_lab2\Nabin_lab2\obj\Debug\Nabin_lab2.exe
+E:\5th semester\DotNet techonlogy\programs\Nabin_lab2\Nabin_lab2\obj\Debug\Nabin_lab2.pdb
