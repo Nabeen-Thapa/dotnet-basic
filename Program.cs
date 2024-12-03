@@ -4,23 +4,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Nabin_lab2
+namespace Exam_pratices
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("enter number:");
-            int num = int.Parse(Console.ReadLine());
-            if (num % 2 == 0)
-            {
-                Console.WriteLine("the number is even");
-            }
-            else
-            {
-                Console.WriteLine("the number is odd");
-            }
+            Console.WriteLine("enter the first number:");
+            int a=int.Parse(Console.ReadLine());
+            Console.WriteLine("enter the secons number:");
+            int b=int.Parse(Console.ReadLine());
+            Console.WriteLine("sum is : "+(a+b));
             Console.ReadKey();
         }
     }
+   
 }
