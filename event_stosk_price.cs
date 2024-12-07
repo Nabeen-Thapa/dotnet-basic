@@ -32,7 +32,7 @@ namespace Exam_pratices
                     {
                         pc(name, oldprice, price);
                     }
-                }
+                } 
             }
         }
        static void Main()
